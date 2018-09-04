@@ -47,7 +47,7 @@ z₁ + z₂ = (a₁ * a₂ - b₁ * b₂, a₁ * b₂ + a₂ * b₁)
 
 В Декартовой системе координат ось абцисс называется вещественной осью, а ось ординат мнимой осью
 
-![Комплексные числа](/assets/complex-numbers-intro.png)
+![Комплексные числа](https://github.com/Phytonmk/study/blob/master/math/assets/complex-numbers-intro.png)
 
 **C** -- множетсво комплексных чисел
 
@@ -72,7 +72,7 @@ i² = -1
 
 z = (x, y) = (x, 0) + (0, y) => z = x + y * i
 
-![Комплексные числа](/assets/complex-numbers-intro2.png)
+![Комплексные числа](https://github.com/Phytonmk/study/blob/master/math/assets/complex-numbers-intro2.png)
 
 x -- вещественная часть числа z
 
